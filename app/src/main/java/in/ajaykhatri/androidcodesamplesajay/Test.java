@@ -6,7 +6,11 @@ package in.ajaykhatri.androidcodesamplesajay;
 
 public class Test {
 
+    int a ;
+
     Test(){
         int l = 10;
     }
+
+
 }
