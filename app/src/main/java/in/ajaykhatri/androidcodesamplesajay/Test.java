@@ -8,6 +8,8 @@ public class Test {
 
     int a ;
 
+    int b = 20;
+
     Test(){
         int l = 10;
     }
